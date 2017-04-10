@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.ligl</groupId>
-  <artifactId>IOSDialog</artifactId>
+  <artifactId>iosdialog</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20170401100618</lastUpdated>
+    <lastUpdated>20170410093435</lastUpdated>
   </versioning>
 </metadata>
